@@ -1,2 +1,3 @@
 # Crazy
-My first repository on Crazy 
+My first repository Crazy 
+My one repositoy  
